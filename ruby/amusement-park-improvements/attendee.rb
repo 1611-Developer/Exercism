@@ -1,6 +1,6 @@
 class Attendee
   def initialize(height)
-    @height = heightt
+    @height = height
   end
 
   def issue_pass!(pass_id)
@@ -22,7 +22,7 @@ class Attendee
   end
 
   def fits_ride?(ride_minimum_height)
-    raise 'Please implement the Attendee#fits_ride? method'
+    
   end
 
   def allowed_to_ride?(ride_minimum_height)
