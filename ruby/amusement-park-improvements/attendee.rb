@@ -1,6 +1,6 @@
 class Attendee
   def initialize(height)
-    @height = height
+    @height = heightt
   end
 
   def issue_pass!(pass_id)
